@@ -1,0 +1,10 @@
+user.email=phuoctoantran@gmail.com
+user.name=phuoctoantran
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+remote.origin.url=https://github.com/PToan1210/Web-Node.js.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
